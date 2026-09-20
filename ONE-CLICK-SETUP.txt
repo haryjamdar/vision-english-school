@@ -1,0 +1,20 @@
+THE VISION ENGLISH SCHOOL - ONE CLICK SETUP
+
+1. Install Node.js LTS once:
+   https://nodejs.org/
+
+2. Extract this ZIP anywhere on your Windows PC.
+
+3. Double-click:
+   START WEBSITE.bat
+
+On the first run, it automatically runs npm install.
+After that it starts:
+- Website: http://127.0.0.1:5173
+- Local data server: http://127.0.0.1:8787
+
+Your local data is stored in:
+server\data\site-data.json
+
+To stop the website, close the two command windows or double-click:
+STOP WEBSITE.bat
